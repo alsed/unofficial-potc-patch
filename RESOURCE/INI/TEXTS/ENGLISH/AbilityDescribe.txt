@@ -1,0 +1,243 @@
+newline {
+
+}
+
+Shotgun	{Pump Action Shotgun}
+perkShotgun
+{
+Enables the use of a pump-action shotgun.
+}
+
+BasicDefense	{Basic Defense}
+perkBasicDefense
+{
+Player's blocks will be 25% harder to pierce, and all damage to the player is decreased by 10%.
+}
+
+AdvancedDefense	{Advanced Defense}
+perkAdvancedDefense
+{
+Player's blocks will be 50% harder to pierce, and all damage to the player is decreased by 20%.
+}
+
+SwordplayProfessional	{Professional Fencer}
+perkSwordplayProfessional
+{
+Player's attacks will be harder to block. Gets a 25% probability of a critical hit, and all damage to the player is decreased by 40%.
+}
+
+Rush	{Rush}
+perkRush
+{
+Player's attacks cause more damage to the enemies, but he is unable to block. The effect lasts for 30 seconds.
+}
+
+CriticalHit	{Critical Hit}
+perkCriticalHit
+{
+Player gets a 5% chance of scoring a critical hit in melee combat.
+}
+
+Gunman	{Gunman}
+perkGunman
+{
+Player will handle pistols better. Reloading is 10% faster and accuracy is increased by 10%. Enables the use of double-barrel pistols.
+}
+
+GunProfessional	{Professional Gunman}
+perkGunProfessional
+{
+Player will become a pistol professional. Reloading is 50% faster and accuracy is increased by 25%. Enables the use of four-barrel pistols.
+}
+
+FastReload	{Fast Reload}
+perkFastReload
+{
+Ship cannons will reload 20% faster.
+}
+
+ImmediateReload	{Pre-reloading}
+perkImmediateReload
+{
+Ship cannons can reload 50% faster. This ability can be used once every 5 minutes.
+}
+
+HullDamageUp	{Increased Ship Damage}
+perkHullDamageUp
+{
+Damage to the enemy's ship is increased by 15%.
+}
+
+SailsDamageUp	{Increased Sail Damage}
+perkSailsDamageUp
+{
+Damage to the enemy's sails is increased by 15%.
+}
+
+CrewDamageUp	{Increased Crew Damage}
+perkCrewDamageUp
+{
+Damage to the enemy's crew is increased by 15%.
+}
+
+CriticalShoot	{Critical Shot}
+perkCriticalShoot
+{
+Player gains a 5% chance that a volley will inflict critical damage to an enemy ship.
+}
+
+LongRangeShoot	{Increased Volley Range}
+perkLongRangeShoot
+{
+Ship cannon's range is increased by 15%.
+}
+
+CannonProfessional	{Professional Cannoneer}
+perkCannonProfessional
+{
+Cannon damage to any part of the enemy ship is increased by 30%. Critical hit probability increased to 15%.
+}
+
+LongRangeGrappling	{Long Range Boarding}
+perkLongRangeGrappling
+{
+The range at which boarding can be initiated is increased by 15%.
+}
+
+MusketsShoot	{Musket Volley}
+perkMusketsShoot
+{
+Right before boarding, the player's crew will fire a musket volley wich inflicts 25% damage of the enemy's crew minus any defense bonuses.
+}
+
+GrapplingProfessional	{Master Of Boarding}
+perkGrapplingProfessional
+{
+The range at which boarding can be initiated is increased by 25%. Speed and angle of closing no longer matters.
+}
+
+InstantBoarding	{Instant Boarding}
+perkInstantBoarding
+{
+Once per battle, player can instantly board a chosen nearby ship. An enemy ship of high class cannot be boarded with this ability.
+}
+
+BasicBattleState	{Basic Ship Defense}
+perkBasicBattleState
+{
+Player's ship takes 15% less damage from enemy fire.
+}
+
+AdvancedBattleState	{Advanced Ship Defense}
+perkAdvancedBattleState
+{
+Player's ship takes 25% less damage from enemy fire.
+}
+
+ShipDefenseProfessional	{Professional Ship Defense}
+perkShipDefenseProfessional
+{
+Player's ship takes 40% less damage from enemy fire and cannot be critically hit.
+}
+
+LightRepair	{Light Repairs}
+perkLightRepair
+{
+Player's crew slowly can repair his ship up to 10% of Max Hp. Repair doesn't require any resources. If the players's ship hull is less than 10%, takes slowly but permanently a weak hull damage -the ship is sinking.
+}
+
+InstantRepair	{Quick Repairs}
+perkInstantRepair
+{
+Player's crew can quickly repair his ship in battle up to 90% of the hull. It requires resources -planks for the hull and sailcloth for the sails. This ability doesn't repair fallen masts.
+}
+
+ShipSpeedUp	{Speed Increase}
+perkShipSpeedUp
+{
+Player's ship speed is increased by 15%.
+}
+
+ShipTurnRateUp	{Maneuverability}
+perkShipTurnRateUp
+{
+Player's ship maneuverability is increased by 15%.
+}
+
+StormProfessional	{Storm Helmsman}
+perkStormProfessional
+{
+Damage to the player's ship by storms and tornadoes is decreased by 20%.
+}
+
+Turn180	{Quick Turn-Around}
+perkTurn180
+{
+Player's ship can execute a quick 180-degree turn maneuver. This ability can be used once every 3 minutes.
+}
+
+SandbankManeuver	{Sense Fairway}
+perkSandbankManeuver
+{
+Player's ship will be protected from the perils of traversing reefs and shoals for 60 seconds, providing the player an opportunity to escape dangerous waters without taking heavy damage.
+}
+
+SailingProfessional	{Sea Wolf}
+perkSailingProfessional
+{
+Player's ship speed and maneuverability are increased by 20%. On the world map, the player has a 50% chance of skipping random encounters. In that case, a "Skip Encounter" icon appears and the player can press 'B' button to skip encounter.
+}
+
+IronWill	{Iron Will}
+perkIronWill
+{
+Player's damage to his reputation -if he doesn't pay salary to his crew- is decreased by 50%. 
+}
+
+SharedExperience	{Shared Experience}
+perkSharedExperience
+{
+35% of the experience acquired by the player will also be added to his party members, and 15% of the experience is added to all passengers on his ship.
+}
+
+Brander	{Fire-ship}
+perkBrander
+{
+The ability to order an allied ship to explode close to the enemy, potentially causing great damage.
+}
+
+Troopers	{Landing Party}
+perkTroopers
+{
+Ability to send an allied ship to attack a fort. The fort may be weakened or captured, depending on the amount of crew on the attacking ship and its experience.
+}
+
+Trustworthy	{Trustworthy Lad}
+perkTrustworthy
+{
+Player gets the option to buy and sell contraband goods in all of the stores... Unfortunately, at the normal price.
+}
+
+BasicCommerce	{Basic Commerce}
+perkBasicCommerce
+{
+Player gets 10% discount when buying goods in stores.
+}
+
+AdvancedCommerce	{Advanced Commerce}
+perkAdvancedCommerce
+{
+Player gets 20% discount when buying goods and a 5% bonus when selling goods in stores.
+}
+
+EarCollector	{Ear Collector}
+perkEarCollector
+{
+You met an old armored barbarian, and he taught you the art of cutting off the ears of defeated enemies.
+}
+
+AnchorCollector	{Anchor Collector}
+perkAnchorCollector
+{
+You like scrap metal, especially anchors. So you remove the anchor from every ship you sink.
+}

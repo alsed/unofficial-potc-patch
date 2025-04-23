@@ -1,0 +1,22 @@
+string DLG_TEXT[19] = {       
+"...",
+"...",
+"Ha... They threw me some sucker again. Machado, stop hiring suckers, will you?!",
+"Hm... Nice to meet you too. My name is Nathaniel.",
+"So, sucker, are you ready to join the team for me?",
+"Yeah, sure.",
+"No, not yet.",
+"I don't care if it's Nicholas Sharp, damn it! I didn't ask you what your name was, did I? So don't bother me.",
+"Hey, Machado, and you want to give me this moron as a companion?",
+"(Machado to both): Ok, stop arguing. Whether you want to or not, you're working together now.",
+"That's lucky, that's lucky...",
+"(Machado): So, your mission is find out where the scum squadron is based now and destroy it. And, please, forget your squabbles for the duration of this mission.",
+"All right. But if he says one more word to me, I'm not responsible for myself!",
+"(Machado): Barrakuda, I'm asking you to keep your mouth shut. The same goes for you, Nathaniel.",
+"Okay. Can we begin?",
+"(Machado): Proceed.",
+"...",
+"(Machado): Um... Proceed as soon as there's room in your squadron for the Barrakuda.",
+"Oh, there really is no room! But I'll think of something now, and notify Barrakuda when he can join me.",
+
+};

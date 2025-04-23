@@ -1,0 +1,153 @@
+1.03
+Saves from version 1.02r are compatible with this patch. If you have saves from earlier versions, please start a new game.
+1. In the settings "Sailing Mode" has now been renamed "Difficulty Mode" and contains the following changes:
+    a) Arcade sailing (off by default).
+    b) Arcade fencing (off by default).
+    c) Arcade cannon firing (off by default).
+2. Fixed some bugs in the main storyline, and secondary quests.
+3. Revised formula for calculating cannon hits.
+4. Fixed fast travel in Quebradas Costillas.
+5. Changed the check for "Failure to re-board" which used to leave a chance for a bug.
+6. Fixed some spelling errors in dialogs and interfaces.
+7. Ships controlled by AI now analyze situations more accurately. For example, they stop using grapes if the enemy's crew is minimal, and stop using chains if the enemy's sails are in poor condition.
+8. Now, when switching ships ammunition, the boatswain's will tell what ammo the cannons are loaded with.
+9. WARNING: an important change! Now, after sinking the British squadron (when you are defending Greenford) you'll need to land in a port or anywhere else on your own. There is no automatic reloading.
+
+
+1.02r from September 24, 2003.
+For the patch to work correctly you need to start a new game.
+1. Fixed bug with respawning of player's boarding officers.
+2. Fixed bug of inability to board multiple ships from time to time.
+3. Fixed bug with Always Run option.
+4. Reduced damage to ships during boarding.
+5. Fixed a bug with the shipyard in Conceicao.
+6. Fixed the bug of Camilo Machado's unwillingness to give the third mission (in the new storyline).
+7. By popular demand: now, as in reality - the larger the caliber of the cannon, the further it shoots.
+8. Fixed various bugs during boarding. 
+9. Returned the ability to surrender to the enemy crew and the enemy captain.
+10. Enemy ships now take the player on boarding based on their own skills and perks.
+11. Returned the ability for ships to lose masts.
+12. Returned the "Musket volley" perk. It works automatically when you start boarding.
+13. You can now see the date and time of the save.
+14. Reduced the rotation of the ship caught in a storm.
+15. The weather has been diversified. Now the player will have access not only to doldrums and storms, but also to intermediate states.
+16. Various bugs in "Shady Bussiness" quest have been fixed.
+17. Reduced font in interfaces.
+18. In the "Ship" menu shows the class of the ship and the number of hitpoints of the hull in the format: current/maximum.
+19. Officers can now be ordered to go with you on boarding (by default, no officers will board with you).
+20. At the beginning of the game, the bosun offers the player two schemes of payment of the player's team - the usual, and percentage (from the profit for the last month). 
+    If the payment is less than 100 gold, the crew's morale slowly decreases, and if the payment is more than 250*number of people, it climbs up.
+    The initial rate is 20% of the last month's profits. The percentage is affected by the "Commerce" and "Leadership" skills.
+    With fully pumped commerce and leadership, the rate is 2%.
+    Profit is any money received by the player.
+    The following are deducted from the total pool: ship repair, purchase of goods, return of money to a loan shark.
+    The following are NOT deducted from the total pool: buying a ship (the crew finds it easier to capture them than to spend money), buying personal items, hiring officers.
+    The amount paid out doesn't depend on the number of the crew.
+21. Increased power of 32 pound guns (stand on forts and several quest ships)
+22. Reduced the modifier that increases the hitpoints of enemies (previously hits could be more than 5 times the player, now is times).
+23. In realistic mode, increased difficulty on land combat- The enemies now use more often block and pistols.
+24. Strengthened all guards in cities without exception. Now their sword skills will be adjusted depending on the player's sword skills.
+25. Sale of ships has become less profitable.
+26. Added the shotgun. Can be found at the very end of the main quest. Killing characters with this weapon does not gain experience or ears. After taking the item, when you press ENTER, you will see a menu to switch mode.
+27. Now, if the enemy ship decides to leave the battlefield, it will shoot knippels, seeking to knock down the sails of pursuing ships.
+28. Reduced the weight of some types of goods, which should lead to a more balanced trade.
+29. Fixed a bug with officers.
+
+
+1.02b2 dated September 4, 2003.
+NOTES. Patch version 1.02b2 is a beta version. The final version will be released in the next two weeks.
+    For correct work of the patch it is necessary to start a new game.
+1. Fixed a problem in the quest Nigel Blythe (it did not appear in the tavern).
+2. Fixed conflict with Nigel's quest with the quests to escort merchants.
+3. Shooting at the "immortal" forts now does not gain exp.
+4. The ability to board the same ship several times has been fixed.
+5. Fixed a bug in the main storyline. Now, if in the mines you find out about Leborio Drago whereabouts, and only then release it, and refuse to take him as an officer, the main storyline will not stall.
+6. Fixed a bug in the main storyline. Now, if you are freed from slavery by negotiating with the mine commander, he doesn't stop communicating with you in the future.
+7. Enabled hotkeys for the following actions: use heal, rage, repair, fast reload, etc. (for more details, see the keyboard settings in the game itself).
+8. Danielle can now exchange items.
+9. In the settings now there is an option to "Always Run".
+10. Danielle's level is now equal to the player's level, with all the ensuing consequences (if you have a level higher than 10, do not forget to allocate her skills and abilities). Note: her HP is equal to the HP she should have at that level, plus 100. I hope this is enough.
+11. Fixed a bug in the main storyline, when the player in search of Ferro Cerezo sailed immediately to Conceicao, and, although the driver said that Cerezo was there, he wasn't, and only appeared  after a few days.
+12. Added a major new storyline, woven into the main storyline.
+        a) In the third mission of this storyline you can switch sides to the pirates, and join the brotherhood of the coast (progression through the pirate storyline depends on whether you have completed the main storyline before taking the quest).
+        b) Read the dialogues carefully :-)
+        c) Complete non-linearity (but it is recommended to think in order to find ways to succeed).
+        d) A careless attitude to the given task can easily lead to be asked to leave by the employer.
+        e) An opportunity to take over a new quest ship -the Fearless- a battleship with improved characteristics and unique geometry.
+        f) How you passed one quest can give you an additional way to solve the next one (or not) :-)
+        g) The opportunity to capture the Prophecy, the fastest ship in the archipelago with a unique texture (based on a corvette).
+        h) The opportunity to capture the Barracuda, a frigate slightly weaker than Mephisto.
+13. Fixed bug with player and nation reconciliation. Now forts also make peace with the player.
+14. Bugfix in the Lucas's quest. If the player did not have time to pay for the ransom of Lucas, then at the first entrance to the tavern of Falais De Fleur, the game froze.
+15. Conflict between Lucas's ruler and Virginia's ruler has been fixed.
+16. The quest log now records the date of the entry.
+17. Reduced the font in the quest log.
+18. Starting at level 20, the player will be able to meet armadas at sea.
+19. On the sails of ships above the 4th rank will now appear emblems of states.
+20. Now enemies load cannons not only with bombs (after the shot, is taken into account the situation, and depending on the result of the board is charged with what is necessary).
+21. There is now an interface showing who you will fight with.
+22. By default the cannons of enemy ships are loaded with cannonballs.
+23. The initial splash screen can be skipped.
+24. Bug with Nigel Blythe's ship splitting has been fixed.
+25. Now there is a shipyard in the pirate lair on Quebradas Costillas.
+26. Pressing "P" turns on/off pause.
+27. Fixed a bug with Virginia's portrait in the passenger interface.
+28. Added perk "Ears Colector" - after taking this perk, when you kill a person you will collect his ear - in the interface then you can see the number of people killed.
+29. Added perk "Anchor Colector" - after taking this perk, when sinking a ship an anchor will be added (I don't know where the player keeps them) and, consequently, in the interface youy can see the number of sunken ships.
+30. Fixed a bug where the player could be attacked by pirates, when entering the pirate's den in Douweseen.
+31. When hiring an officer, don't forget to talk to him to set whether or not he will go on the boarding party with you. In this regard - the boarding party can now be kept just as passengers - it will still appear on the boarded ship. But keep in mind - the more officers go with you, the more enemies on deck.
+32. The number of crew on the ship now affects the synchronization of firing cannons (at skill level 10 and a full team, the salvo from all cannons occurs almost simultaneously, but if the team is not full there are delays between shots).
+33. With the keys "+" and "-" you can change the speed of time (available acceleration from 0.0 (pause) to 10.0).
+34. Bug at the end of the main quest has been fixed, which appeared when player saved the game when entering the labyrinth, but when loading the save all of his officers disappeared. (This caused an inability to finish the game, because an important story conversation did not started).
+35. Fixed the bug with the revival of Thierry Basque, in his quest.
+36. In realistic mode, the time required to raise/lower sails has been increased.
+
+
+1.02b dated August 21, 2003.
+WARNING. Patch version 1.02b is a beta version. The final version will be released in the next two weeks.
+For this patch work correctly, you will need to start a new game.
+1. Bug fixes the conflict of a minor quest with the main storyline (can't find Raoul Rheims).
+2. Fixed bug when, after killing Larrouse, the player receives half the amount.
+3. Fixed bug with Artois Voisier not joining, provided that the player already has 3 officers.
+4. Changed the balance of naval battles (reduced base damage to ships, greatly reduced multiplier for hit damage in realistic mode, hit damage is now close to arcade mode).
+5. In realistic sailing mode, reload time of cannons is reduced (is now about 2 minutes).
+6. Danielle joins the player being a higher rank (more hit points and perks).
+7. Fixed bug of departure when attacking one of the types of encounters.
+8. Fixed game crash when trying to talk to Emirgildo Caminero in Isla Muelle with sound on.
+9. In the Missing Children quest, the player is now given a hint to continue the quest after losing the frigate.
+10. Spyglasses, whose descriptions say that they show the speed of the ship, now actually show it.
+11. If the player kills Malcolm, it no longer reappears.
+12. Bug in animist's quest has been finally fixed (refusing to talk about the prisoner).
+13. After the sinking of the Black Pearl, Danielle can be disbanded, and her death will not result in a gameover.
+14. The conflict between the Animist leader and the Artois Voisier quest is fixed.
+15. Improved the correlation between the reload rate of cannons and the crew number.
+16. Now the player cannot take a prize ship if the minimum number of the crew cannot be discounted. 
+17. Now it's impossible to move to a captured ship if the player's crew is less than the minimum required to control the captured ship. 
+18. Danielle now allows to allocate perks and improve the characteristics of the level up.
+19. Increased the distance between ships in the World Map.
+20. Fixed bug with loan sharks. Additional condition for borrowing money was introduced - they cease to give money immediately after the sum of the loan exceeds a certain value depending on the rank of the player.
+21. Fixed a bug in the Virginia quest - the inability to leave the room if you refuse to help the girl.
+
+
+1.01 dated August 14, 2003.
+1. Added a new type of random assignment - sinking a pirate ship. You can obtain this task from the governors of the colonies. 
+2. Enabled to continue the game after sinking the Black Pearl. 
+3. Enabled to exit game interfaces with mouse. 
+4. Feature to adjust image quality and mouse inverting. 
+5. Fixed bugs in the Artois Voysier quest. 
+6. Fixed bugs in random ship convoy and cargo transport quests. 
+7. Included a quest about plundering gold mines. 
+8. Fixed bugs with some entries in the ship's log.
+9. Improved balance of naval battles. 
+10. Fixed a bug in the assassin quest. 
+11. Danielle is now mortal. 
+12. Manowar has been added to the list of ships encountered at sea. 
+13. More different combinations of ships to be found at sea. 
+14. Fixed bug with unremovable French flag. 
+15. Fixed a conflict between the animist quest and the main storyline. 
+16. Fixed bug with Fog on GeForce FX. 
+17. Reduced font size of dialogs. 
+18. Fixed found errors in dialogs. 
+19. Fixed incorrect display of the name of a saved game if the game was saved more than once during one minute. 
+20. The initial money is increased to 3000. 
+21. Added goods exchange/captains management interface on land.

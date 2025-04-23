@@ -1,0 +1,71 @@
+Unofficial Patch 1.03r
+
+This patch is a reconstruction of the official patch 1.03 for Akella's 2003 Pirates of the Caribbean.
+For this patch work correctly, you'll need to start a new game.
+
+List of additional fixes and changes for this patch:
+
+1. Fixes for the tutorial (with many thanks to Grey Roger): 
+    - The tutorial now correctly checks if the ship has been completely repaired.
+    - After exiting the shipyard, the (new) dialog with Malcolm now is correctly displayed.
+    - When the player select the payment type, now a log notification appears on screen.
+    - Fixed a bug that allowed, after finishing the tutorial, to always talk to Malcolm and change the payment type.
+2. In Tobias quest: 
+    - Restored dialog when being ambush with Tobias in the tavern.
+    - Fixed dialog break, when meeting Rabel Iverneau in the tavern.
+    - The delay that prevented the player to escape from Oxbay, with Tobias and Rabel, has been fixed.
+    - When returning to Redmond governor's residence, after capturing the french ship, now the correct music plays.
+    - Models for Massoni, Tobias and Rabel Yverneau are now different from each other.
+3. In Search for Rhymes quest:
+    - Rheims' journal is now removed from the player's inventory.
+    - Added missing questlog.
+4. In Artois Voyser quest: 
+    - Fixed a bug when the player decided to confront Nigel Blythe, the pirate's guards also attacked him.
+    - The trial in Conceicao is now played in a more consistent way.
+5. In Oxbay Mines quest: 
+    - Fixed a bug when, after buying his release from the mines, 
+    the player couldn't properly equip his weapons or enter Greenford.
+    - Questlog entries restored.
+6. In "Shady Business" quest (new questline):
+    - Fixed a bug that prevented continuing the quest after completing the first mission with the french merchant.
+    - Fixed a bug that prevented continuing the quest when the player decides to go with the pirates.
+    - Fixed a bug that respawned the leader of the smugglers, even after the player killed him.
+7. In the sea, if an ammo type is already loaded, the crew doesn't reload it.
+8. Implemented sounds:
+    - Added new english bosun voices for charge cannons, boarding, and abandon ship.
+    - The voices for loading cannons now play whith both action commands and quick key access.
+    - Sound when an attempt for boarding fails.
+    - Sound of dropping anchor when arriving to an island.
+9. Fixes for interfaces:
+    - Sea encounter window now displays correctly.
+    - Menu text changes when firing crew.
+    - Minor changes to Nation Relations screen.
+10. Corrections for dialogs and labels:
+    - Spanish ships names corrected and increased.
+    - Several modifications and corrections for dialogs.
+    - Corrected label of Amerigo Viera's House.
+    - Corrected loading screens for Isla Muelle Shore.
+    - Added missing portraits (credit to KAM, fragster and Sailor Al).
+11. Reduced fog density during morning weather.
+12. Reverted changes:
+    - Black Pearl HP after artifact has been reverted to original (in the patch it was doubled).
+    - For the first battle, perks for Barbossa had been reverted to original. For the second battle, 
+    in the new quest, the modified perks are applied.
+    - texture for pirate flag reverted (the patch previously replaced it with Jack´s Skull).    
+13. Reputation & Morale fix added (from unknown author).
+14. During abordage: 
+    - fixed a bug that prevented the player's previous crew to be loaded in the next deck.
+    - "Musket volley" perk now also applies if an officer has the skill. Also, a log notifies the effect during combat.
+    - Minor rebalancing adjustments for boarding combat.
+15. Debug commands that were enabled in the original patch, are deactivated again.
+16. Quest to kill Sidonio Ogarrio can now be completed (based on Grey Roger's idea).
+17. "R" for time acceleration can be used both in land and sea. A log and icon inform when is activated.
+18. A log informs the experience received from swordfighting (based on Nathan Kell's mod). 
+    - Also there is a 10 percent chance for the player to retrieve the sword of the defeated enemy. 
+    - For some important main quest NPC's, the sword is always retrieved, as intended by the patch.
+19. Fixes to Fort Capture:
+    - Fixed a bug where forts couldn't load it's cannons.
+    - Fort Max Crew is reduced to 600. Previously was 3000.
+    - Fort crew morale is a random number between 40 and 80.
+    - Forts now receive more (HP and crew) damage. Cannon fire now generate casualties in the fort crew.
+20. Dialog options are controlled by keys 'W' and 'S'.
